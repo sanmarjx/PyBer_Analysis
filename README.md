@@ -1,10 +1,10 @@
 # PyBer_Analysis
 ## Overview
-The goal of this perform analysis on Pyber ride sharing data and provide visualizations in order to determine a way to provide access and improve affordability for underserved neighborhoods.
+The goal of this project is to perform analysis on Pyber ride sharing data and provide visualizations in order to determine a way to provide access and improve affordability for underserved neighborhoods.
 In order to achieve this goal the data was analyzed using Python's Pandas and Matplotlib.
 
 ## Results
-After aggregating the data, a new data frame was created to be able to easily observe differences in the numer of total rides, total drivers, total fares, average fare per ride and average fare per driver between each city type.
+After aggregating the data, a new data frame was created to be able to easily observe differences in the number of total rides, total drivers, total fares, average fare per ride and average fare per driver between each city type.
 ![Summary_Data_Frame](https://user-images.githubusercontent.com/116690861/204149320-9d209a05-19d8-43fd-b174-42bd1024016a.png)
 
 A few things can be observed in this data frame:
@@ -13,7 +13,7 @@ A few things can be observed in this data frame:
 - Rural cities have the highest average fare per ride and per driver
 - Urban cities have the highest demand for ridesharing services
 
-The analysis did not end there. In order to ilustrate the results a line chart was created to show the total fare by city type from January 1st, 2019 to April 30th, 2019. 
+The analysis did not end there. In order to illustrate the results a line chart was created to show the total fare by city type from January 1st, 2019 to April 30th, 2019. 
 
 ![2019_Fare_by_City_Type](https://user-images.githubusercontent.com/116690861/204149831-e1366868-0931-4e7d-a14b-45af26b78cdc.png)
 
